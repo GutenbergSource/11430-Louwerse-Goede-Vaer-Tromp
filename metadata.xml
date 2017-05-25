@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Goede Vaêr Tromp, of hoe de Vereenigde Provinciën eene zeemogendheid werden.</dc:title>
+      <dc:creator>Pieter Louwerse (1840–1908)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2004-03-01</dc:publisher>
+      <dc:date>2004-03-01</dc:date>
+      <dc:rights>Publiek Domein; het auteursrecht op de oorspronkelijke tekst is verlopen; dit bestand mag vrijelijk gekopieerd worden.
+Latere uitgaven van dit werk zijn verschenen onder de titel „Beste Vaer Tromp.”
+</dc:rights>
+      <dc:language>nl-1800</dc:language>
+      <dc:identifier>pg:11430</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
